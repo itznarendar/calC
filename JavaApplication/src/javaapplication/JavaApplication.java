@@ -11,6 +11,11 @@ package javaapplication;
  */
 public class JavaApplication {
 
+    
+    public Integer add(Integer a,Integer b)
+    {
+        return a+b;
+    }
     /**
      * @param args the command line arguments
      */
