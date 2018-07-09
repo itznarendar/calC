@@ -11,6 +11,10 @@ package javaapplication;
  */
 public class JavaApplication {
 
+    public Integer multi(Integer a,Integer b)
+    {
+        return a*b;
+    }
     /**
      * @param args the command line arguments
      */
