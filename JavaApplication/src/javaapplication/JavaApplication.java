@@ -22,7 +22,7 @@ public class JavaApplication {
         // TODO code application logic here
         multi(20,30);
         
-        System.out.println("                           ");
+        System.out.println("     build completed                       ");
     }
     
 }
