@@ -11,7 +11,7 @@ package javaapplication;
  */
 public class JavaApplication {
 
-    public Integer multi(Integer a,Integer b)
+    public static  Integer multi(Integer a,Integer b)
     {
         return a*b;
     }
@@ -20,7 +20,7 @@ public class JavaApplication {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        multi(20,30);
         
         System.out.println("                           ");
     }
